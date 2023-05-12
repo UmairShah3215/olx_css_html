@@ -216,6 +216,7 @@ header .header_bottom nav ul li a:hover{
 }
 .card-body{
     background-color:#fff;
+    box-shadow: 2px 3px 13px 2px;
 }
 .card-body .head{
     display: flex;
